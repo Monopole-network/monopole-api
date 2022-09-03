@@ -1,15 +1,15 @@
 {
-  "name": "GoldenTickets #1",
+  "name": "GoldenTickets #2",
   "description": "This is the 1st NFT, Monopole. These give you access to the Beta App. It will also give you other monopole benefits. Your precious.",
-  "image": "ipfs://QmaAUVnbzVtksdRv36XFAiqRwLbnPNrmP6Rhpi4oyGXkdG/10.png",
+  "image": "..",
   "attributes": [
     {
       "trait_type": "Scarcity",
-      "value": "Common"
+      "value": "COMMON"
     },
     {
       "trait_type": "Location",
-      "value": "BACKPACK CANDIES"
+      "value": "MEDELLIN"
     }
   ]
 }
