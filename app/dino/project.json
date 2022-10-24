@@ -1,0 +1,17 @@
+{
+  name: "Dinotest",
+  description: "Dinotest Proin luctus ultrices eros, ut consequat lectus viverra vitae. In sit amet turpis ullamcorper, facilisis quam vel, tincidunt ante. Nulla tincidunt neque ac ultrices lobortis. Donec suscipit tempus varius. Proin luctus ultrices eros, ut consequat lectus viverra vitae. In sit amet turpis ullamcorper, facilisis quam vel, tincidunt ante. Nulla tincidunt neque ac ultrices lobortis. Donec suscipit tempus varius. Proin luctus ultrices eros, ut consequat lectus viverra vitae. In sit amet turpis ullamcorper, facilisis quam vel, tincidunt ante. Nulla tincidunt neque ac ultrices lobortis. Donec suscipit tempus varius. ",
+  tags: [
+    { name: "preserve", color: "green" },
+    { name: "decarbonize", color: "red" },
+    { name: "foundation", color: "red" },
+  ],
+  impacts: { social: "Poverty", environment: "Preserve" },
+  images: ["",""],
+  estimatedApy: "",
+  type: "Project",
+  color: "#c548fa",
+  secondaryColor: "#d27cf7",
+  location: "Paris, France",
+  coordinates: [46.2317, 7.36698],
+}
