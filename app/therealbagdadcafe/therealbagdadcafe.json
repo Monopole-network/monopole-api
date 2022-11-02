@@ -1,0 +1,20 @@
+{
+  "name": "The Real Bagdad Cafe",
+  "description": ["Out on a lonely stretch of Route 66, Andrea, 82, clings to her fantasy of reviving the world famous Bagdad Cafe, hard hit by the pandemic. One of the first tokenized documentaries on the blockchain.","On a lonely stretch of Route 66, French tourists stop at a remote dusty roadside attraction: a lowly desert diner. Its brown shingles are sun-bleached, yet it's unmistakably the set of the 1987 cult movie Bagdad Café. German arthouse lensing elevated this humble spot to a mythic destination for movie buffs, especially Europeans","A train rhythmically rumbles by. A soaring water tower looms. Tourists take selfies. But their pilgrimage could end. Since the pandemic, Bagdad Café has faced extinction. Even the coffee machine is broken","""French people have always been very good to me"" muses Andrea Pruett, 82, as her friend Kim carefully wets and combs her pale silken hairs. Tourists still visit but are sparse. Once, with its jukebox and dance floor, Bagdad Café was the main attraction for miles. Long ago, in 1996, Andrea and her husband Harold Pruett Sr. left Los Angeles to pursue a dream: restoring and running this movie memorabilia treasure. Tragedies followed: their son's death and Andrea's husband's soon after. Bereft, Andrea stayed on in the desert, and the Café became her whole world.","Today she's surrounded by stranger than fiction characters, true survivors united by solidarity and kindness. They stand together uncertain, as new challenges arise. California water wars paired with climate crisis, sentencing the desert oasis to a steady decline. As rivers dried and reservoirs emptied, their world is changed beyond recognition. Can this quirky community collectively break the curse of collapse and reopen the Café?"],
+  "tags": [
+    { "name": "Water War", "color": "green" },
+    { "name": "Reduced Inequalities", "color": "red" },
+    { "name": "Sustainable Cities/Communities", "color": "red" }
+  ],
+  "impacts": { "social": "Poverty", "environment": "Preserve", "economic": "kjfbfb" },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbadgadcafe/therealbagdagcafe.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbadgadcafe/BagdadCafe_FINALExtended.mp4"
+  ],
+  "estimatedApy": 0,
+  "type": "Project",
+  "color": "#c548fa",
+  "secondaryColor": "#d27cf7",
+  "location": "Los Angeles, USA",
+  "coordinates": [34.536, 116.4447039]
+}
