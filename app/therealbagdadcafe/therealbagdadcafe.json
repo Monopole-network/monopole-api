@@ -13,9 +13,9 @@
     { "name": "Sustainable Cities/Communities", "color": "red" }
   ],
   "impacts": {
-    "social": "Poverty",
+    "social": "Inclusion",
     "environment": "Preserve",
-    "economic": "kjfbfb"
+    "economic": "Cinema"
   },
   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe.png",
   "images": [
