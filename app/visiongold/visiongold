@@ -1,0 +1,21 @@
+{
+  "name": "Vision Gold",
+  "description": ["Vision Gold is a company based in Colombia and allowing to acquire gold considered as ethical","texte"],
+  "tags": [
+    { "name": "preserve", "color": "green" },
+    { "name": "decarbonize", "color": "red" },
+    { "name": "foundation", "color": "red" }
+  ],
+  "impacts": { "social": "Poverty", "environment": "Preserve", "economic": "Economie" },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/visiongold/VisionGold.jpeg",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png"
+  ],
+  "estimatedApy": 0,
+  "type": "Project",
+  "color": "#c548fa",
+  "secondaryColor": "#d27cf7",
+  "location": "Medellin, Colombie",
+  "coordinates": [6.2443382,75.573553]
+}
