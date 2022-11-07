@@ -23,7 +23,7 @@
   ],
   "estimatedApy": 0,
   "type": "Project",
-  "color": "#c548fa",
+  "primaryColor": "#c548fa",
   "secondaryColor": "#d27cf7",
   "location": "Los Angeles, USA",
   "coordinates": [34.536, 116.4447039]
