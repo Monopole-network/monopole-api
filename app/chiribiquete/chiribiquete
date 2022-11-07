@@ -1,0 +1,21 @@
+{
+  "name": "Chiribiquete",
+  "description": ["Help digitize one of the Wonders of the world, The inaccessible Chiribiquete cavern"],
+  "tags": [
+    { "name": "preserve", "color": "green" },
+    { "name": "decarbonize", "color": "red" },
+    { "name": "foundation", "color": "red" }
+  ],
+  "impacts": { "social": "Poverty", "environment": "Preserve", "economic": "Economie" },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/chiribiquete/chiribiquete.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png"
+  ],
+  "estimatedApy": 0,
+  "type": "Project",
+  "color": "#c548fa",
+  "secondaryColor": "#d27cf7",
+  "location": "Medellin, Colombie",
+  "coordinates": [6.2443382,75.573553]
+}
