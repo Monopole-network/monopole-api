@@ -19,7 +19,10 @@
   },
   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino.png",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino1.jpeg",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino2.jpeg",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino3.jpeg"
   ],
   "estimatedApy": 7.5,
   "type": "Project",
