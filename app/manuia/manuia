@@ -1,0 +1,21 @@
+{
+    "name": "Manuia",
+    "description": ["Our NFTs preserve Tahiti and its culture","texte"],
+    "tags": [
+      { "name": "preserve", "color": "green" },
+      { "name": "decarbonize", "color": "red" },
+      { "name": "foundation", "color": "red" }
+    ],
+    "impacts": { "social": "Poverty", "environment": "Preserve", "economic": "Economie" },
+    "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/manuia/manuia.png",
+    "images": [
+      "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/manuia/brouillonnft.mp4",
+      "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png"
+    ],
+    "estimatedApy": 0,
+    "type": "Project",
+    "color": "#c548fa",
+    "secondaryColor": "#d27cf7",
+    "location": "Papete, Tahiti",
+    "coordinates": [17.6873439,149.4451681]
+  }
