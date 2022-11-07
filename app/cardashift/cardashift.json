@@ -9,9 +9,9 @@
     { "name": "foundation", "color": "red" }
   ],
   "impacts": {
-    "social": "Poverty",
-    "environment": "Preserve",
-    "economic": "Economie"
+    "social": "Inclusion",
+    "environment": "Decarbonize",
+    "economic": "Finance"
   },
   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/cardashift.png",
   "images": [
