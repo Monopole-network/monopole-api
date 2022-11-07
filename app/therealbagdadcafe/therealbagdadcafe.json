@@ -19,7 +19,10 @@
   },
   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe.png",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe1.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe2.jpeg",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/therealbagdadcafe/therealbagdadcafe3.jpeg"
   ],
   "estimatedApy": 0,
   "type": "Project",
