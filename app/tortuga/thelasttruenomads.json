@@ -17,7 +17,10 @@
   },
   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads.png",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads1.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads3.png"
   ],
   "estimatedApy": 0,
   "type": "Project",
