@@ -1,0 +1,21 @@
+ {
+   "name": "Cardashift",
+   "description": ["Debug the World with the token of the launchpad, Cardashift. ICO","texte"],
+   "tags": [
+     { "name": "preserve", "color": "green" },
+     { "name": "decarbonize", "color": "red" },
+     { "name": "foundation", "color": "red" }
+   ],
+   "impacts": { "social": "Poverty", "environment": "Preserve", "economic": "Economie" },
+   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/carda.png",
+   "images": [
+     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png",
+     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png"
+   ],
+   "estimatedApy": 0,
+   "type": "Project",
+   "color": "#c548fa",
+   "secondaryColor": "#d27cf7",
+   "location": "Paris, France",
+   "coordinates": [48.8731241,2.3352724]
+ }
