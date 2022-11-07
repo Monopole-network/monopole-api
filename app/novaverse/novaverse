@@ -1,0 +1,21 @@
+{
+     "name": "Novaverse - Metaverse litteraire",
+     "description": ["We bring together designers, writers and musicians to give you a digitalized experience of tomorrow’s book","texte"],
+     "tags": [
+       { "name": "preserve", "color": "green" },
+       { "name": "decarbonize", "color": "red" },
+       { "name": "foundation", "color": "red" }
+     ],
+     "impacts": { "social": "Poverty", "environment": "Preserve", "economic": "Economie" },
+     "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/novaverse/novaverse.png",
+     "images": [
+       "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png",
+       "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/dino/dino.png"
+     ],
+     "estimatedApy": 0,
+     "type": "Project",
+     "color": "#c548fa",
+     "secondaryColor": "#d27cf7",
+     "location": "Perpignan, France",
+     "coordinates": [42.6985304,2.8953121]
+   }
