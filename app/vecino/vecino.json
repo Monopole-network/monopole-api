@@ -1,0 +1,30 @@
+{
+  "name": "Vecino co-living",
+  "description": [
+    "First Premium co-living for digital nomads around the world",
+    "Born in 2019 in Medellin, the company VECINO COLIVING has given itself a mission: to offer a hosting solution suitable for digital nomads. Whether employed or self-employed, a growing number of people have the opportunity to work from anywhere in the world. The COVID crisis has even accelerated this phenomenon by promoting teleworking. This new lifestyle has brought new needs in the real estate market. In fact, a digital nomad stays on average between 1 and 6 months in a country. This is too long to stay in a hotel or hostel, and too short to rent a flat. The Airbnb solution still exists, but it does not allow you to meet people or join a community. VECINO COLIVING combines these elements: Comfort and design, working environment, community.",
+    "Why did we choose Medellin and Colombia to open our first coliving? Quality of life, climate, tourist interest, Common time zone with USA and Canada, Medellin was named World Capital of Innovation by the financial group Citi and the Wall Street Journal in 2013, Visa for digital nomads planned for 2022, High demand / Low competition.",
+    "Our goal: Become the number one coliving company in Latin America,",
+    "Less than a year after opening, our first coliving has already an occupancy rate of over 95%."
+  ],
+  "tags": [
+    { "name": "preserve", "color": "green" },
+    { "name": "decarbonize", "color": "red" },
+    { "name": "foundation", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Poverty",
+    "environment": "Preserve",
+    "economic": "economie"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino.png"
+  ],
+  "estimatedApy": 7.5,
+  "type": "Project",
+  "primaryColor": "#c548fa",
+  "secondaryColor": "#d27cf7",
+  "location": "Paris, France",
+  "coordinates": [6.1246763, 75.3418453]
+}
