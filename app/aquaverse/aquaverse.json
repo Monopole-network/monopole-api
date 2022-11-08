@@ -1,26 +1,26 @@
 {
-  "name": "Cardashift",
+  "name": "Aquaverse",
   "description": [
-    "Debug the World with the token of the launchpad, Cardashift. ICO"
+    "The NFT that cleans the seas"
   ],
   "tags": [
     { "name": "preserve", "color": "green" },
     { "name": "decarbonize", "color": "red" },
-    { "name": "foundation", "color": "red" }
+    { "name": "R&D", "color": "red" }
   ],
   "impacts": {
     "social": "Inclusion",
-    "environment": "Decarbonize",
-    "economic": "Finance"
+    "environment": "Water",
+    "economic": "Stocks"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/cardashift.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/aquaverse/aquaverse.png",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/cardashift.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/aquaverse/aquaverse.png"
   ],
   "estimatedApy": 0,
   "type": "Project",
   "primaryColor": "#c548fa",
   "secondaryColor": "#d27cf7",
   "location": "Paris, France",
-  "coordinates": [48.8731241, 2.3352724]
+  "coordinates": [48.8318167,2.385896]
 }
