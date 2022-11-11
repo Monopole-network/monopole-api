@@ -1,7 +1,10 @@
 {
   "name": "Aquaverse",
   "description": [
-    "The NFT that cleans the seas","Aquaverse is a complete ecosystem allowing to act in a concrete way on the pollution of our seas and oceans, combining Ecology, Blockchain & Gaming.","We live in an infected system, humanity has exceeded 96% overfishing. To compensate for this, we are moving to mass and polluting aquaculture, the plastic from our consumption decomposes into micro-plastics, the heavy metals from industries and agriculture end up in the sea after a long journey across rivers and water tables.","If sea water is polluted, fauna and flora are polluted, and so are we. These wastes are found in all our food before accumulating in our organs, our blood, our brains. Everyone feeds on marine species. The worst thing is that among us, 1 billion people are dependent on marine resources as their main source of protein and these people are mostly from poor countries.",
+    "The NFT that cleans the seas",
+    "Aquaverse is a complete ecosystem allowing to act in a concrete way on the pollution of our seas and oceans, combining Ecology, Blockchain & Gaming.",
+    "We live in an infected system, humanity has exceeded 96% overfishing. To compensate for this, we are moving to mass and polluting aquaculture, the plastic from our consumption decomposes into micro-plastics, the heavy metals from industries and agriculture end up in the sea after a long journey across rivers and water tables.",
+    "If sea water is polluted, fauna and flora are polluted, and so are we. These wastes are found in all our food before accumulating in our organs, our blood, our brains. Everyone feeds on marine species. The worst thing is that among us, 1 billion people are dependent on marine resources as their main source of protein and these people are mostly from poor countries."
   ],
   "tags": [
     { "name": "preserve", "color": "green" },
@@ -22,5 +25,5 @@
   "primaryColor": "#c548fa",
   "secondaryColor": "#d27cf7",
   "location": "Paris, France",
-  "coordinates": [48.8318167,2.385896]
+  "coordinates": [48.8318167, 2.385896]
 }
