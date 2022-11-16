@@ -1,1 +1,39 @@
-
+{
+  "name": "Wild Immersion",
+  "description": [
+    "The MetavEarth of Reforestation and Wildlife Protection",
+    "Humanity is facing its biggest threats in history: climate change,pollution,biodiversity loss could end up dramatically",
+    "We decided to create a Metaverse of Nature and wildlife to educate and entertain a large number of people.",
+    "And also to protect lands,reforest and save animals."
+  ],
+  "tags": [
+    { "name": "preserve", "color": "green" },
+    { "name": "reforestation", "color": "red" },
+    { "name": "Web3", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Education",
+    "environment": "Protect Animals",
+    "economic": "NFTs"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion1.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion4.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion5.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion6.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion7.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion8.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion9.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion10.png",
+    
+  ],
+  "estimatedApy": 0,
+  "type": "NFTs",
+  "primaryColor": "#c548fa",
+  "secondaryColor": "#d27cf7",
+  "location": "Paris, France",
+  "coordinates": [48.8318167, 2.385896]
+}
