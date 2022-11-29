@@ -1,21 +1,21 @@
 {
   "name": "Telethon",
   "description": [
-    "Debug the World with the token of the launchpad, Cardashift. ICO"
+    "Innovate to Heal. The first collection of NFTs featuring Street Artist and Telethon."
   ],
   "tags": [
-    { "name": "preserve", "color": "green" },
-    { "name": "decarbonize", "color": "red" },
+    { "name": "innovate", "color": "green" },
+    { "name": "heal", "color": "red" },
     { "name": "foundation", "color": "red" }
   ],
   "impacts": {
     "social": "Inclusion",
-    "environment": "Decarbonize",
-    "economic": "Finance"
+    "environment": "Health",
+    "economic": "Art for Heal"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/cardashift.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/telethon/telethon.png",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/cardashift.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/telethon/telethon.png"
   ],
   "estimatedApy": 0,
   "type": "Foundation",
