@@ -30,6 +30,7 @@
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/chut/chut10.jpeg",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/chut/chut11.jpeg"
   ],
+  "goals": [1, 2],
   "estimatedApy": 0,
   "type": "Stock",
   "primaryColor": "#c548fa",

@@ -17,6 +17,7 @@
   "images": [
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/cardashift/cardashift.png"
   ],
+  "goals": [1, 2],
   "estimatedApy": 0,
   "type": "Project",
   "primaryColor": "#c548fa",

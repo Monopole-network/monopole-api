@@ -24,6 +24,7 @@
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino2.jpeg",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/vecino/vecino3.jpeg"
   ],
+  "goals": [1, 2],
   "estimatedApy": 7.5,
   "type": "Project",
   "primaryColor": "#c548fa",

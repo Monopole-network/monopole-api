@@ -30,6 +30,7 @@
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion9.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/wildimmersion/wildimmersion10.png"
   ],
+  "goals": [1, 2],
   "estimatedApy": 0,
   "type": "NFTs",
   "primaryColor": "#c548fa",

@@ -20,6 +20,7 @@
   "images": [
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/aquaverse/aquaverse.png"
   ],
+  "goals": [1, 2],
   "estimatedApy": 0,
   "type": "Stock",
   "primaryColor": "#c548fa",

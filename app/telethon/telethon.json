@@ -29,6 +29,7 @@
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/telethon/telethon3.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/telethon/telethon4.png"
   ],
+  "goals": [1, 2],
   "estimatedApy": 0,
   "type": "Foundation",
   "primaryColor": "#c548fa",
