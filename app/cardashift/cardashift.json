@@ -20,8 +20,8 @@
   "goals": [1, 2],
   "estimatedApy": 0,
   "type": "Project",
-  "primaryColor": "#c548fa",
-  "secondaryColor": "#d27cf7",
+  "primaryColor": "#121e34",
+  "secondaryColor": "#121e34",
   "location": "Paris, France",
-  "coordinates": [48.8731241, 2.3352724]
+  "coordinates": [48, 2.3352724]
 }
