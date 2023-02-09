@@ -22,7 +22,7 @@
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads2.jpg",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/main/app/tortuga/thelasttruenomads3.jpg"
   ],
-  "goals": [1, 2],
+  "goals": [4, 10],
   "estimatedApy": 0,
   "type": "Project",
   "primaryColor": "#f50505",
