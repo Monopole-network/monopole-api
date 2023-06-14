@@ -1,5 +1,5 @@
-import { NextApiRequest, NextApiResponse } from 'next';
 import axios from 'axios';
+import { NextApiRequest, NextApiResponse } from 'next';
 import NextCors from 'nextjs-cors';
 
 const sendinblueApiKey = process.env.SENDINBLUE_API_KEY;
@@ -16,7 +16,6 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
 
   if (req.method === 'POST') {
     const { email, listId } = req.body;
-    console.log('email', email.EMAIL, listId);
 
     try {
       const response = await axios.post(
