@@ -1,0 +1,34 @@
+{
+  "name": "Guardians of the Hatchlings",
+  "description": [
+    "The 'Guardians of the Hatchlings' project is a dedicated and inclusive conservation initiative with a primary goal of preserving and protecting various turtle species and their vulnerable offspring.",
+    "Born out of a critical understanding of the challenges and threats turtles face globally, this project aims to create a sustainable and secure future for these fascinating creatures.",
+    "Focused on safeguarding the full lifecycle of turtles, this initiative pays special attention to the highly susceptible stage of baby turtles, providing them with the protection they need to grow and thrive. Recognizing that many of these hatchlings never make it to the sea due to natural predators, environmental hazards, and human activities, the project is dedicated to creating a supportive, safe, and nurtured environment for their early growth.",
+    "Our project has three key objectives: 1) Habitat Protection, 2) Education and Awareness, and 3) Research and Advocacy. By saving turtles, we are contributing to the maintenance of marine and coastal ecosystems, supporting biodiversity, and ensuring a healthier planet for future generations."
+  ],
+  "tags": [
+    { "name": "conservation", "color": "green" },
+    { "name": "education", "color": "blue" },
+    { "name": "research", "color": "orange" },
+    { "name": "advocacy", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Education and Awareness",
+    "environment": "Preservation and Restoration of Habitats",
+    "economic": "Promotion of Sustainable Practices"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/turtle/turtle.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle4.png"
+  ],
+  "goals": [1, 2, 3],
+  "estimatedApy": 0,
+  "type": "Nonprofit",
+  "primaryColor": "#c548fa",
+  "secondaryColor": "#d27cf7",
+  "location": "Costa Rica",
+  "coordinates": [9.7489, 83.7534]
+}
