@@ -1,0 +1,34 @@
+{
+  "name": "FutureGreen: The Blueprint for a Sustainable City",
+  "description": [
+    "The 'FutureGreen' project is an ambitious and innovative initiative aimed at designing and implementing a futuristic, sustainable, green city from scratch.",
+    "This project seeks to pioneer new standards for urban living, focusing on eco-friendly construction, renewable energy, sustainable waste management, and green spaces while ensuring high living standards and economic viability.",
+    "At the heart of the 'FutureGreen' concept is the balance between urban development and the preservation of natural resources, aiming to create a city that not only sustains but enhances the environment.",
+    "Our vision encompasses three main pillars: 1) Sustainable Infrastructure, 2) Green Energy, and 3) Environmental Education and Awareness. We are passionate about shaping the future of urban living and making a significant contribution to the fight against climate change."
+  ],
+  "tags": [
+    { "name": "sustainability", "color": "green" },
+    { "name": "urban development", "color": "blue" },
+    { "name": "green energy", "color": "yellow" },
+    { "name": "education", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Innovation in Urban Living",
+    "environment": "Sustainable Resource Use",
+    "economic": "Promotion of Green Economy"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity4.png"
+  ],
+  "goals": [7, 9, 11, 12, 13, 15, 17],
+  "estimatedApy": 0,
+  "type": "Development",
+  "primaryColor": "#58c741",
+  "secondaryColor": "#8cd98c",
+  "location": "Norway",
+  "coordinates": [59.9139, 10.7522]
+}

@@ -17,14 +17,14 @@
     "environment": "Preservation and Restoration of Habitats",
     "economic": "Promotion of Sustainable Practices"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/turtle/turtle.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.png",
   "images": [
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle2.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle3.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle4.png"
   ],
-  "goals": [1, 2, 3],
+  "goals": [4, 13, 14, 15, 17],
   "estimatedApy": 0,
   "type": "Nonprofit",
   "primaryColor": "#c548fa",
