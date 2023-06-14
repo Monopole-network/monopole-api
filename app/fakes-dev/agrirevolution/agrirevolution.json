@@ -1,0 +1,33 @@
+{
+  "name": "AgriRevolution: Climate-Resilient Sustainable Farming",
+  "description": [
+    "The 'AgriRevolution' project is a ground-breaking venture focused on promoting sustainable agricultural practices, developing climate-resilient crop varieties, and enhancing the livelihoods of smallholder farmers.",
+    "Understanding the intricate link between climate change, food security, and the wellbeing of the farming community, we aim to revolutionize the agricultural landscape by integrating technology, community empowerment, and ecologically responsible methods.",
+    "We strive to uplift rural economies, ensure food security, and mitigate climate change impacts while preserving biodiversity."
+  ],
+  "tags": [
+    { "name": "sustainability", "color": "green" },
+    { "name": "agriculture", "color": "brown" },
+    { "name": "climate", "color": "blue" },
+    { "name": "community", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Empowering Farmers",
+    "environment": "Climate Resilient Agriculture",
+    "economic": "Rural Economy Revival"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution1.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution3.png"
+  ],
+  "goals": [1, 2, 13, 14],
+  "estimatedApy": 0,
+  "type": "Sustainable Agriculture",
+  "primaryColor": "#6B8E23",
+  "secondaryColor": "#556B2F",
+  "location": "India - Punjab Region",
+  "coordinates": [31.519, 75.981]
+}
