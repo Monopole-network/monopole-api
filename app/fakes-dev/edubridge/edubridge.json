@@ -1,0 +1,45 @@
+{
+  "name": "EduBridge: Bridging the Education Gap",
+  "description": [
+    "The 'EduBridge' project is an innovative digital initiative aimed at creating a mobile application that makes high-quality education accessible to underprivileged communities worldwide.",
+    "Recognizing the disparities in educational resources across various regions, this project seeks to bridge the gap through the power of technology, providing a platform for learning that is affordable, comprehensive, and easy to use.",
+    "This initiative will include content for all age groups and subjects, harnessing the potential of technology to deliver personalized and engaging learning experiences, regardless of location or socio-economic status."
+  ],
+  "tags": [
+    {
+      "name": "education",
+      "color": "blue"
+    },
+    {
+      "name": "technology",
+      "color": "green"
+    },
+    {
+      "name": "equality",
+      "color": "red"
+    },
+    {
+      "name": "partnerships",
+      "color": "orange"
+    }
+  ],
+  "impacts": {
+    "social": "Increased Educational Access",
+    "environment": "Digital, Low Impact",
+    "economic": "Promotion of Equal Opportunity"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge4.png"
+  ],
+  "goals": [4, 10, 17],
+  "estimatedApy": 0,
+  "type": "Education Tech",
+  "primaryColor": "#4267B2",
+  "secondaryColor": "#3b5998",
+  "location": "Paris",
+  "coordinates": [48.8566, 2.3522]
+}
