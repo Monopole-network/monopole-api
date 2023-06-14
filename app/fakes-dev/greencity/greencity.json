@@ -4,7 +4,11 @@
     "The 'FutureGreen' project is an ambitious and innovative initiative aimed at designing and implementing a futuristic, sustainable, green city from scratch.",
     "This project seeks to pioneer new standards for urban living, focusing on eco-friendly construction, renewable energy, sustainable waste management, and green spaces while ensuring high living standards and economic viability.",
     "At the heart of the 'FutureGreen' concept is the balance between urban development and the preservation of natural resources, aiming to create a city that not only sustains but enhances the environment.",
-    "Our vision encompasses three main pillars: 1) Sustainable Infrastructure, 2) Green Energy, and 3) Environmental Education and Awareness. We are passionate about shaping the future of urban living and making a significant contribution to the fight against climate change."
+    "Our vision encompasses three main pillars:",
+    "1) Sustainable Infrastructure,",
+    "2) Green Energy,",
+    "3) Environmental Education and Awareness.",
+    "We are passionate about shaping the future of urban living and making a significant contribution to the fight against climate change."
   ],
   "tags": [
     { "name": "sustainability", "color": "green" },
