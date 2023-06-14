@@ -1,5 +1,5 @@
 {
-  "name": "FutureGreen: The Blueprint for a Sustainable City",
+  "name": "Blueprint for a Sustainable City",
   "description": [
     "The 'FutureGreen' project is an ambitious and innovative initiative aimed at designing and implementing a futuristic, sustainable, green city from scratch.",
     "This project seeks to pioneer new standards for urban living, focusing on eco-friendly construction, renewable energy, sustainable waste management, and green spaces while ensuring high living standards and economic viability.",
@@ -22,7 +22,8 @@
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity2.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity4.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity4.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity5.png"
   ],
   "goals": [7, 9, 11, 12, 13, 15, 17],
   "estimatedApy": 0,
