@@ -1,5 +1,5 @@
 {
-  "name": "AgriRevolution: Climate-Resilient Sustainable Farming",
+  "name": "Climate-Resilient Sustainable Farming",
   "description": [
     "The 'AgriRevolution' project is a ground-breaking venture focused on promoting sustainable agricultural practices, developing climate-resilient crop varieties, and enhancing the livelihoods of smallholder farmers.",
     "Understanding the intricate link between climate change, food security, and the wellbeing of the farming community, we aim to revolutionize the agricultural landscape by integrating technology, community empowerment, and ecologically responsible methods.",
@@ -19,9 +19,10 @@
   "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution.png",
   "images": [
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution1.png",
     "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution3.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution4.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/agrirevolution/agrirevolution5.png"
   ],
   "goals": [1, 2, 13, 14],
   "estimatedApy": 0,
