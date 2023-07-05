@@ -1,0 +1,38 @@
+{
+  "name": "Waste No Waste",
+  "description": [
+    "The 'Waste No Waste' project is an innovative approach to waste management, focusing on transforming waste into renewable energy sources and promoting sustainable practices.",
+    "The initiative aims to address two pressing global challenges simultaneously - waste management and energy shortage. By converting waste to energy, this project not only reduces the amount of waste in landfills but also generates renewable energy, thus contributing to a sustainable future.",
+    "With this project, we seek to foster circular economy principles, promoting waste reduction, recycling, and upcycling, while generating a sustainable source of energy for communities worldwide.",
+    "Our project has three main goals: ",
+    "1) Promote efficient waste management systems, ",
+    "2) Develop technology for waste-to-energy conversion, ",
+    "3) Educate communities about the benefits of waste reduction and recycling."
+  ],
+  "tags": [
+    { "name": "waste management", "color": "brown" },
+    { "name": "renewable energy", "color": "green" },
+    { "name": "sustainability", "color": "blue" },
+    { "name": "education", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Community Education and Engagement",
+    "environment": "Waste Reduction and Energy Production",
+    "economic": "Promotion of Circular Economy"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste4.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste5.png"
+  ],
+  "goals": [7, 9, 11, 12, 13],
+  "estimatedApy": 0,
+  "type": "Foundation",
+  "primaryColor": "#ff8800",
+  "secondaryColor": "#ffbb33",
+  "location": "Tokyo, Japan",
+  "coordinates": [35.6895, 139.6917]
+}

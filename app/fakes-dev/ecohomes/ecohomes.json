@@ -1,0 +1,38 @@
+{
+  "name": "EcoHomes",
+  "description": [
+    "The 'EcoHomes' project aims at promoting energy efficiency in homes worldwide. This initiative is dedicated to encouraging the use of energy-efficient appliances, endorsing green construction practices, and facilitating the adoption of renewable energy sources such as solar and wind power.",
+    "We believe in the potential of every home to be a part of the solution to our energy crisis. By making small changes in our homes, we can make a big impact on our planet.",
+    "Our project includes:",
+    "1) Awareness and Education Campaigns,",
+    "2) Partnerships with Green Construction Companies,",
+    "3) Affordable Financing Options for Green Home Improvements.",
+    "Join us in making every home an 'EcoHome'."
+  ],
+  "tags": [
+    { "name": "energy efficiency", "color": "yellow" },
+    { "name": "green construction", "color": "green" },
+    { "name": "renewable energy", "color": "blue" },
+    { "name": "sustainability", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Promoting Energy Conservation",
+    "environment": "Reducing Carbon Footprint",
+    "economic": "Cost Savings for Households"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes4.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes5.png"
+  ],
+  "goals": [7, 11, 12, 13],
+  "estimatedApy": 0,
+  "type": "Green Energy",
+  "primaryColor": "#50c878",
+  "secondaryColor": "#adff2f",
+  "location": "Global",
+  "coordinates": [51.5072, 0.1276]
+}

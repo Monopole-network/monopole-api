@@ -1,0 +1,38 @@
+{
+  "name": "The Green Machine",
+  "description": [
+    "The 'Green Machine' project is a pioneering venture dedicated to developing eco-friendly transportation technology. Our main focus is on creating innovative and sustainable solutions in the form of electric and hydrogen-powered vehicles.",
+    "Recognizing the substantial environmental impact of conventional transportation, we aim to revolutionize the industry by introducing cutting-edge, green, and affordable alternatives.",
+    "Our project has three key objectives:",
+    "1) Research & Development of Sustainable Vehicles,",
+    "2) Public Awareness and Education,",
+    "3) Policy Advocacy for Green Transportation.",
+    "By transforming the transportation landscape, we aim to significantly reduce carbon emissions and drive the world towards a more sustainable future."
+  ],
+  "tags": [
+    { "name": "green transportation", "color": "green" },
+    { "name": "sustainability", "color": "blue" },
+    { "name": "innovation", "color": "yellow" },
+    { "name": "education", "color": "red" }
+  ],
+  "impacts": {
+    "social": "Promotion of Sustainable Mobility",
+    "environment": "Reduction of Carbon Emissions",
+    "economic": "Boosting Green Economy"
+  },
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greenmachine/greenmachine.png",
+  "images": [
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greenmachine/greenmachine.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greenmachine/greenmachine2.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greenmachine/greenmachine3.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greenmachine/greenmachine4.png",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greenmachine/greenmachine5.png"
+  ],
+  "goals": [7, 9, 11, 13, 17],
+  "estimatedApy": 0,
+  "type": "Foundation",
+  "primaryColor": "#009688",
+  "secondaryColor": "#4DB6AC",
+  "location": "San Francisco, USA",
+  "coordinates": [37.7749, -122.4194]
+}
