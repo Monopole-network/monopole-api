@@ -10,29 +10,50 @@
     "3) Educate communities about the benefits of waste reduction and recycling."
   ],
   "tags": [
-    { "name": "waste management", "color": "brown" },
-    { "name": "renewable energy", "color": "green" },
-    { "name": "sustainability", "color": "blue" },
-    { "name": "education", "color": "red" }
+    {
+      "name": "waste management",
+      "color": "brown"
+    },
+    {
+      "name": "renewable energy",
+      "color": "green"
+    },
+    {
+      "name": "sustainability",
+      "color": "blue"
+    },
+    {
+      "name": "education",
+      "color": "red"
+    }
   ],
   "impacts": {
     "social": "Community Education and Engagement",
     "environment": "Waste Reduction and Energy Production",
     "economic": "Promotion of Circular Economy"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste.webp",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste4.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste5.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste2.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste3.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste4.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/wastenowaste/wastenowaste5.webp"
   ],
-  "goals": [7, 9, 11, 12, 13],
+  "goals": [
+    7,
+    9,
+    11,
+    12,
+    13
+  ],
   "estimatedApy": 0,
   "type": "Waste Management",
   "primaryColor": "#ff8800",
   "secondaryColor": "#ffbb33",
   "location": "Tokyo, Japan",
-  "coordinates": [35.6895, 139.6917]
+  "coordinates": [
+    35.6895,
+    139.6917
+  ]
 }

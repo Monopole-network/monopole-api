@@ -11,29 +11,52 @@
     "We are passionate about shaping the future of urban living and making a significant contribution to the fight against climate change."
   ],
   "tags": [
-    { "name": "sustainability", "color": "green" },
-    { "name": "urban development", "color": "blue" },
-    { "name": "green energy", "color": "yellow" },
-    { "name": "education", "color": "red" }
+    {
+      "name": "sustainability",
+      "color": "green"
+    },
+    {
+      "name": "urban development",
+      "color": "blue"
+    },
+    {
+      "name": "green energy",
+      "color": "yellow"
+    },
+    {
+      "name": "education",
+      "color": "red"
+    }
   ],
   "impacts": {
     "social": "Innovation in Urban Living",
     "environment": "Sustainable Resource Use",
     "economic": "Promotion of Green Economy"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.webp",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity4.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity5.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity2.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity3.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity4.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/greencity/greencity5.webp"
   ],
-  "goals": [7, 9, 11, 12, 13, 15, 17],
+  "goals": [
+    7,
+    9,
+    11,
+    12,
+    13,
+    15,
+    17
+  ],
   "estimatedApy": 0,
   "type": "Development",
   "primaryColor": "#58c741",
   "secondaryColor": "#8cd98c",
   "location": "Norway",
-  "coordinates": [59.9139, 10.7522]
+  "coordinates": [
+    59.9139,
+    10.7522
+  ]
 }

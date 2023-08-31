@@ -11,29 +11,50 @@
     "By saving turtles, we are contributing to the maintenance of marine and coastal ecosystems, supporting biodiversity, and ensuring a healthier planet for future generations."
   ],
   "tags": [
-    { "name": "conservation", "color": "green" },
-    { "name": "education", "color": "blue" },
-    { "name": "research", "color": "orange" },
-    { "name": "advocacy", "color": "red" }
+    {
+      "name": "conservation",
+      "color": "green"
+    },
+    {
+      "name": "education",
+      "color": "blue"
+    },
+    {
+      "name": "research",
+      "color": "orange"
+    },
+    {
+      "name": "advocacy",
+      "color": "red"
+    }
   ],
   "impacts": {
     "social": "Education and Awareness",
     "environment": "Preservation and Restoration of Habitats",
     "economic": "Promotion of Sustainable Practices"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.webp",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle4.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle5.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle2.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle3.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle4.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/turtle/turtle5.webp"
   ],
-  "goals": [4, 13, 14, 15, 17],
+  "goals": [
+    4,
+    13,
+    14,
+    15,
+    17
+  ],
   "estimatedApy": 0,
   "type": "Foundation",
   "primaryColor": "#c548fa",
   "secondaryColor": "#d27cf7",
   "location": "Costa Rica",
-  "coordinates": [9.7489, 83.7534]
+  "coordinates": [
+    9.7489,
+    83.7534
+  ]
 }

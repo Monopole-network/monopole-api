@@ -6,29 +6,48 @@
     "This project will actively work towards reducing wage gaps, eliminating discriminatory practices in workplaces, and promoting diversity and inclusion. By doing so, we hope to ensure a just and fair work environment that fosters productivity, growth, and overall societal wellbeing."
   ],
   "tags": [
-    { "name": "equality", "color": "blue" },
-    { "name": "employment", "color": "green" },
-    { "name": "advocacy", "color": "red" },
-    { "name": "policy", "color": "orange" }
+    {
+      "name": "equality",
+      "color": "blue"
+    },
+    {
+      "name": "employment",
+      "color": "green"
+    },
+    {
+      "name": "advocacy",
+      "color": "red"
+    },
+    {
+      "name": "policy",
+      "color": "orange"
+    }
   ],
   "impacts": {
     "social": "Promotion of Equal Opportunities",
     "environment": "Inclusive Workplaces",
     "economic": "Economic Growth"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce.webp",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce4.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce5.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce2.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce3.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce4.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/workforce/workforce5.webp"
   ],
-  "goals": [5, 8, 10],
+  "goals": [
+    5,
+    8,
+    10
+  ],
   "estimatedApy": 0,
   "type": "Foundation",
   "primaryColor": "#e91e63",
   "secondaryColor": "#ad1457",
   "location": "Global",
-  "coordinates": [0, 0]
+  "coordinates": [
+    0,
+    0
+  ]
 }

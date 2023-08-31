@@ -10,29 +10,49 @@
     "Join us in making every home an 'EcoHome'."
   ],
   "tags": [
-    { "name": "energy efficiency", "color": "yellow" },
-    { "name": "green construction", "color": "green" },
-    { "name": "renewable energy", "color": "blue" },
-    { "name": "sustainability", "color": "red" }
+    {
+      "name": "energy efficiency",
+      "color": "yellow"
+    },
+    {
+      "name": "green construction",
+      "color": "green"
+    },
+    {
+      "name": "renewable energy",
+      "color": "blue"
+    },
+    {
+      "name": "sustainability",
+      "color": "red"
+    }
   ],
   "impacts": {
     "social": "Promoting Energy Conservation",
     "environment": "Reducing Carbon Footprint",
     "economic": "Cost Savings for Households"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes.webp",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes4.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes5.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes2.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes3.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes4.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/ecohomes/ecohomes5.webp"
   ],
-  "goals": [7, 11, 12, 13],
+  "goals": [
+    7,
+    11,
+    12,
+    13
+  ],
   "estimatedApy": 0,
   "type": "Green Energy",
   "primaryColor": "#50c878",
   "secondaryColor": "#adff2f",
   "location": "Global",
-  "coordinates": [51.5072, 0.1276]
+  "coordinates": [
+    51.5072,
+    0.1276
+  ]
 }

@@ -28,19 +28,26 @@
     "environment": "Digital, Low Impact",
     "economic": "Promotion of Equal Opportunity"
   },
-  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge.png",
+  "image": "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge.webp",
   "images": [
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge4.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge3.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge2.png",
-    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge5.png"
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge4.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge3.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge2.webp",
+    "https://raw.githubusercontent.com/Monopole-network/monopole-api/dev/app/fakes-dev/edubridge/edubridge5.webp"
   ],
-  "goals": [4, 10, 17],
+  "goals": [
+    4,
+    10,
+    17
+  ],
   "estimatedApy": 0,
   "type": "Foundation",
   "primaryColor": "#4267B2",
   "secondaryColor": "#3b5998",
   "location": "Paris",
-  "coordinates": [48.8566, 2.3522]
+  "coordinates": [
+    48.8566,
+    2.3522
+  ]
 }
